@@ -23,7 +23,7 @@ The source data (`HW_Data.xlsx`) contains four sheets:
 
 ---
 
-## Part 1 — Relational Database (`hw2_group_NO9_relational.accdb`)
+## Part 1 — Relational Database (`hw2_group_NO#_relational.accdb`)
 
 ### Tables & Schema
 
@@ -62,7 +62,7 @@ All relationships are **1-to-Many**:
 
 ---
 
-## Part 2 — Dimensional Database (`hw2_group_NO9_dimensional.accdb`)
+## Part 2 — Dimensional Database (`hw2_group_NO#_dimensional.accdb`)
 
 Transformed from the relational database into a **Star Schema** optimized for Profit & Loss analysis.
 
