@@ -1,5 +1,4 @@
 # HW2 — Relational & Dimensional Database Design
-**Group No:** 9  
 **Course:** Database Management Systems  
 **University:** Koç University — Industrial Engineering
 
@@ -96,8 +95,8 @@ All relationships are **1-to-Many** from dimension to fact:
 ## Files
 
 ```
-├── hw2_group_NO9_relational.accdb   # Relational database (Access)
-├── hw2_group_NO9_dimensional.accdb  # Dimensional database (Access)
+├── hw2_group_NO#_relational.accdb   # Relational database (Access)
+├── hw2_group_NO#_dimensional.accdb  # Dimensional database (Access)
 ├── HW_Data.xlsx                     # Source data
 ├── Answersheet.docx                 # Completed answer sheet (Parts a–j)
 └── README.md
